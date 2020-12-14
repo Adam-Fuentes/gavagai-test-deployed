@@ -1,0 +1,51 @@
+h3 {
+    letter-spacing: 1px;
+    color: rgb(90, 90, 90);
+}
+
+.search {
+    margin-top: 0;
+
+    &__input {
+        border: none;
+        width: 300px;
+        height: 35px;
+        text-align: center;
+
+        &:focus {
+            outline: none;
+        }
+    }
+
+    &__icon {
+        color: black;
+
+        &:hover {
+            color: black;
+        }
+    }
+
+    &__button {
+        border: none;
+        height: 35px;
+        width: 40px;
+        cursor: pointer;
+
+        &:focus {
+            outline: none;
+        }
+
+        &:hover {
+            background-color: rgb(161, 161, 161);
+            color: white;
+        }
+    }
+
+    &__select {
+        outline: none;
+        border: none;
+        height: 35px;
+        width: 50px;
+        font-weight: bold;
+    }
+}

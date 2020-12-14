@@ -1,0 +1,17 @@
+.word {
+    float: left;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+
+    &__text {
+        font-size: small;
+        letter-spacing: 1px;
+        color: rgb(54, 54, 54);
+        text-transform: capitalize;
+    }
+}
