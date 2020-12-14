@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gavagai-test-deployed/static/css/main.0b53dd2b.chunk.css",
+    "main.js": "/gavagai-test-deployed/static/js/main.87a99d2a.chunk.js",
+    "main.js.map": "/gavagai-test-deployed/static/js/main.87a99d2a.chunk.js.map",
+    "runtime-main.js": "/gavagai-test-deployed/static/js/runtime-main.9c512ab0.js",
+    "runtime-main.js.map": "/gavagai-test-deployed/static/js/runtime-main.9c512ab0.js.map",
+    "static/js/2.213a684d.chunk.js": "/gavagai-test-deployed/static/js/2.213a684d.chunk.js",
+    "static/js/2.213a684d.chunk.js.map": "/gavagai-test-deployed/static/js/2.213a684d.chunk.js.map",
+    "index.html": "/gavagai-test-deployed/index.html",
+    "static/css/main.0b53dd2b.chunk.css.map": "/gavagai-test-deployed/static/css/main.0b53dd2b.chunk.css.map",
+    "static/js/2.213a684d.chunk.js.LICENSE.txt": "/gavagai-test-deployed/static/js/2.213a684d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c512ab0.js",
+    "static/js/2.213a684d.chunk.js",
+    "static/css/main.0b53dd2b.chunk.css",
+    "static/js/main.87a99d2a.chunk.js"
+  ]
+}
